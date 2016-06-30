@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59545873806",
+    "firebase_url": "https://wheremyfriendsapp-a221e.firebaseio.com",
+    "project_id": "wheremyfriendsapp-a221e",
+    "storage_bucket": "wheremyfriendsapp-a221e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59545873806:android:604cfa2e371dde6c",
+        "android_client_info": {
+          "package_name": "com.sababado.wheremyfriendsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59545873806-n3o7rv7vm7uvomndt8a4i6qmvb6rk98j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sababado.wheremyfriendsapp",
+            "certificate_hash": "13C6C788BFAEAFF6C856A2AABDAC75A16817BD08"
+          }
+        },
+        {
+          "client_id": "59545873806-ggmj7sgl0e6fbtu7788nu6buf1c52f9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Zqn6B15Uh7xZC0moVBUEI1iYQ9RmPOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59545873806-ggmj7sgl0e6fbtu7788nu6buf1c52f9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
